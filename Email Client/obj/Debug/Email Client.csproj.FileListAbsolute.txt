@@ -1,0 +1,17 @@
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\Part1\Email Client\bin\Debug\Email Client.exe.config
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\Part1\Email Client\bin\Debug\Email Client.exe
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\Part1\Email Client\bin\Debug\Email Client.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\Part1\Email Client\obj\Debug\Email_Client.Form1.resources
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\Part1\Email Client\obj\Debug\Email_Client.Properties.Resources.resources
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\Part1\Email Client\obj\Debug\Email Client.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\Part1\Email Client\obj\Debug\Email Client.exe
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\Part1\Email Client\obj\Debug\Email Client.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\Part1\Email Client\obj\Debug\Email Client.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\Part1\Email Client\bin\Debug\Bunifu_UI_v1.4.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\Part1\Email Client\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\Part1\Email Client\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\Part1\Email Client\obj\Debug\Email_Client.SplashScreen.resources
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\Part1\Email Client\obj\Debug\Email_Client.MainPage.resources
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\EmailApp\Email Client\bin\Debug\Email Client.exe.config
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\EmailApp\Email Client\obj\Debug\Email Client.exe
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\EmailApp\Email Client\obj\Debug\Email Client.pdb
